@@ -124,6 +124,8 @@ for vol_frac in [0.4, 0.6]:
 ``` 
 
 ## For using the python FreeCAD Macro 
+Location of the Blender Addon
+[FreeCAD Addon](https://github.com/DMST1990/ToOptixFreeCADAddon)
 - This Macro is tested on FreeCAD 0.17. Later version might not work.
 - You need to define a python3 path 'python3_path' in the file 'FreeCADMacro.py' because FreeCAD uses python2 as default
 - You need to define a install path 'installation_path' in the file 'FreeCADMacro.py' that FreeCAD knows where ToOptix is located.
