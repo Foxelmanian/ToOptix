@@ -3,21 +3,21 @@
 
 
 <p align="center">
-  <img src="https://github.com/DMST1990/ToOptixUpdate/blob/master/Images/StaticLoadCaseTwoRectangle.png" width="100%">
+  <img src="https://github.com/DMST1990/ToOptixCore/blob/master/Images/StaticLoadCaseTwoRectangle.png" width="100%">
 </p>
 
 
 <p align="center">
-  <img src="https://github.com/DMST1990/ToOptixUpdate/blob/master/Images/HeatLoadCaseTwoRectangle.png" width="100%">
+  <img src="https://github.com/DMST1990/ToOptixCore/blob/master/Images/HeatLoadCaseTwoRectangle.png" width="100%">
 </p>
 
 
 <p align="center">
-  <img src="https://github.com/DMST1990/ToOptixUpdate/blob/master/Images/QuadraticPlateLoadCase.png" width="100%">
+  <img src="https://github.com/DMST1990/ToOptixCore/blob/master/Images/QuadraticPlateLoadCase.png" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github.com/DMST1990/ToOptixUpdate/blob/master/Images/NoDesignSpace.png" width="100%">
+  <img src="https://github.com/DMST1990/ToOptixCore/blob/master/Images/NoDesignSpace.png" width="100%">
 </p>
 
 
@@ -56,7 +56,7 @@ Location of the Blender Addon
 - Copy your ToOptix Folder and paste it into ...\Blender Foundation\Blender\2.80\scripts\addons
 - Start Blender and activate the addon (type = mesh)
 <p align="center">
-  <img src="https://github.com/DMST1990/ToOptixUpdate/blob/master/Images/Blender_UI.PNG" width="50%">
+  <img src="https://github.com/DMST1990/ToOptixBlenderAddon/blob/master/Images/Blender_UI.PNG" width="50%">
 </p>
 
 ### Python 
