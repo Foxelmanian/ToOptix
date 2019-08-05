@@ -135,7 +135,7 @@ Location of the Blender Addon
 - Modification should be done in 'run_optimization_freeCAD.py'. This will be changed in the next version.
 
 <p align="center">
-  <img src="https://github.com/DMST1990/ToOptixUpdate/blob/master/Images/InstructionFreeCADMacro.png" width="100%">
+  <img src="https://github.com/DMST1990/ToOptixFreeCADAddon/blob/master/Images/InstructionFreeCADMacro.png" width="100%">
 </p>
 
 
